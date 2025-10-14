@@ -1,10 +1,6 @@
-# mock_picsure_extended.py
 from dataclasses import dataclass, field
 from typing import List, Dict, Any
 
-# -----------------------------
-# Mock classes to simulate PIC-SURE with numeric filters
-# -----------------------------
 
 @dataclass
 class MockQuery:
