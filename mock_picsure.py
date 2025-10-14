@@ -65,7 +65,7 @@ class MockSession:
     api_url: str = ""
     token: str = ""
     
-    def build_query(self):
+    def build_query(self):d
         return MockQuery()
 
 
