@@ -91,4 +91,4 @@ if __name__ == "__main__":
     results = query.get_results()
     print("\nQuery results:")
     for r in results:
-        print(r)f
+        print(r)
